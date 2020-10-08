@@ -79,7 +79,7 @@
 
 			#titleBar .toggle:before {
 				background: none;
-				color: black;
+				color: #f53335;
 				display: block;
 				height: 44px;
 				line-height: 44px;
