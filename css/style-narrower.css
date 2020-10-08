@@ -37,7 +37,7 @@
 /* Layers */
 
 	#titleBar {
-		background: #000;
+		background: #f53335;
 		height: 44px;
 		line-height: 44px;
 	}
@@ -50,7 +50,7 @@
 			line-height: 44px;
 			letter-spacing: 1px;
 			text-transform: uppercase;
-			color: #000;
+			color: #f53335;
 			z-index: 1;
 		}
 
